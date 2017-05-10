@@ -32,5 +32,5 @@ Flora B. is a go-getting powerhouse of a grandma. She loves city living and is d
 
 #### Comp:
 * ![Desktop Version](./Desktop.png "Desktop Version")
-* ![Mobile Version](./Mobile Portrait.png "Mobile Version")
+* ![Mobile Version](./Mobile\ Portrait.png "Mobile Version")
 
