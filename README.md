@@ -34,3 +34,5 @@ Flora B. is a go-getting powerhouse of a grandma. She loves city living and is d
 * ![Desktop Version](./design-images/Desktop.png "Desktop Version")
 * ![Mobile Version](./design-images/Mobile-Portrait.png "Mobile Version")
 
+
+[Github Pages](https://kellymiller6.github.io/UX-UI-Challenge/)
